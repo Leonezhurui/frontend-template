@@ -1,0 +1,26 @@
+.container {
+  //公共样式
+  font-size: 18px;
+  background: #831616;
+
+  //按钮种类
+  &.type-primary {
+    font-size: 24px;
+  }
+
+  //按钮大小
+  &.size-small {
+    width: 10px;
+    height: 10px;
+  }
+  &.size-large {
+    width: 200px;
+    height: 200px;
+  }
+
+  //按钮可用性
+  &.disabled {
+
+  }
+
+}
