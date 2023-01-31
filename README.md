@@ -9,4 +9,8 @@
 * 组件库框架
 * views 文件夹框架
 
+待完成的内容：
+* eslint 和 typescript/eslint 规范编写
+* 组件库丰富
+* 页面编写
 
